@@ -1,0 +1,30 @@
+[
+    { "id": 1, 
+        "type": "health",
+        "title": "Health insurance",
+        "insurer": "Helsana", 
+        "prize": 4523,
+        "currency": "EUR"
+    },
+    { "id": 2, 
+        "type": "car",
+        "title": "Vehicle insurance",
+        "insurer": "Zurich", 
+        "prize": 1233,
+        "currency": "EUR"
+    },
+    { "id": 3, 
+        "type": "house",
+        "title": "Property insurance",
+        "insurer": "Visana", 
+        "prize": 4334,
+        "currency": "EUR"
+    },
+    { "id": 4, 
+        "type": "travel",
+        "title": "Travel insurance",
+        "insurer": "Bâloise", 
+        "prize": 565,
+        "currency": "EUR"
+    }
+]

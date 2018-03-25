@@ -1,0 +1,18 @@
+{
+    "appName": "Mysurance",
+    "removeInsuranceMessage": "Do you really want to delete this item from the list?",
+    "no": "No",
+    "yes": "Yes",
+    "categories": "Categories",
+    "insurer": "Insurer",
+    "anualPrize": "Anual Prize",
+    "category": "Category",
+    "addInformation": "Add information",
+    "add": "Add",
+    "yearlyPremiums": "Yearly Premiums: ",
+    "save" : "Save",
+    "noCategories" : "Woops... \n No categories to show",
+    "noInsurances" : "Woops... \n No insurances to show",
+    "addInsuranceError" : "Please add all the information",
+    "ok": "OK"
+}
